@@ -1,4 +1,4 @@
-import java.lang.*; 
+ 
   class variables{
     public static void main(String args[]) 
     {
@@ -10,6 +10,8 @@ import java.lang.*;
       System.out.println("name:"+name);
       System.out.println("Age:"+age);
       System.out.println("Percent"+percent);
+      System.out.println(gender);
+      System.out.println(married);
 
     }
   }

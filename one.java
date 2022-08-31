@@ -1,4 +1,4 @@
-import java.lang.*;
+
 //commment line;
 /*multiline comments */  
 class one{
