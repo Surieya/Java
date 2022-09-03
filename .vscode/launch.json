@@ -1,0 +1,56 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Arithmetic",
+      "request": "launch",
+      "mainClass": "Arithmetic",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch casting",
+      "request": "launch",
+      "mainClass": "casting",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ifstatement",
+      "request": "launch",
+      "mainClass": "ifstatement",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch one",
+      "request": "launch",
+      "mainClass": "one",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch scanner",
+      "request": "launch",
+      "mainClass": "scanner",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch variables",
+      "request": "launch",
+      "mainClass": "variables",
+      "projectName": "java_72e8cc1b"
+    }
+  ]
+}

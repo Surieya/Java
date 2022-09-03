@@ -9,3 +9,9 @@ public class scanner {
     System.out.println(a+b);
   }
 }
+/*in.nextInt();
+  in.nextFloat();
+  in.nextDouble();
+  in.next();
+  in.nextLine();
+ */
