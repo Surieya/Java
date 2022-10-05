@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch str",
+      "request": "launch",
+      "mainClass": "str",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
       "name": "Launch whileloop",
       "request": "launch",
       "mainClass": "whileloop",
